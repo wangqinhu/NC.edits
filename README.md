@@ -87,6 +87,6 @@ R CMD BATCH ./ANA_plot.R
 
 Citation
 ========
-Liu H, Li Y, Chen D, Qi Z, Wang Q, Wang J, Jiang C, Xu JR. (2017) A-to-I RNA editing is developmentally regulated and generally adaptive for sexual reproduction in _Neurospora crassa_. Proc Natl Acad Sci USA, doi: [10.1073/pnas.1702591114][1].
+Liu H, Li Y, Chen D, Qi Z, Wang Q, Wang J, Jiang C, Xu JR. (2017) A-to-I RNA editing is developmentally regulated and generally adaptive for sexual reproduction in _Neurospora crassa_. Proc Natl Acad Sci USA, 114:E7756–E7765. [PDF][1].
 
-[1]: http://www.pnas.org/cgi/doi/10.1073/pnas.1702591114
+[1]: http://www.pnas.org/content/114/37/E7756.full.pdf
